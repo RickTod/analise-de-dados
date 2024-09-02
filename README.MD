@@ -10,6 +10,7 @@ Este projeto foi desenvolvido como parte do curso de **Data Science usando Pytho
 - Limpeza e preparação dos dados para análise.
 - Geração de visualizações para comunicar os resultados.
 
+
 ## Estrutura do Projeto
 
 - **notebooks/**: Jupyter notebooks utilizados para a análise e desenvolvimento dos modelos.
